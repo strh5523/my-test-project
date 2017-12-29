@@ -1,6 +1,6 @@
-#include<stdio.h>
+#include<iostream>
 int main()
 {
-printf("helloworld\n");
+cout("helloworld\n");
 return 0;
 }
