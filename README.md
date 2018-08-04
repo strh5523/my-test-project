@@ -1,2 +1,3 @@
-# my-test-project
-hello
+运行时需要加上参数//ip port 线程个数(pth_num)
+例如：
+./ser 127.0.0.1 80 4
